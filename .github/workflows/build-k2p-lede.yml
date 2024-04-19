@@ -35,9 +35,9 @@ env:
   UPLOAD_COWTRANSFER: true
   UPLOAD_WETRANSFER: false
   UPLOAD_RELEASE: true
-  TZ: Asia/Shanghai
-  FILE_NAME: Phicomm-K2P-LEDE
-  PRODUCT_NAME: Phicomm-K2P-LEDE
+  TZ: Asia/Aden
+  FILE_NAME: SAKHR-K2P
+  PRODUCT_NAME: SAKHR-K2P
 
 jobs:
   build:
